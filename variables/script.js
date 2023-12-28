@@ -11,7 +11,7 @@ console.log(age);
 //naming conventions
 // -only letters,numbers,underscores and dollar signs
 //cannot start with a number
-//firstName,first_name,FirstName,
+//firstName,first_name,FirstName, 
 
 //re-assignig variables
 age = 31;

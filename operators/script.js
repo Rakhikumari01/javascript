@@ -17,7 +17,7 @@ x=2 **3;
 x = 1;
 x++;
 //decrement
-x=6;
+x=6; 
 x--;
 
 //Assignment operator

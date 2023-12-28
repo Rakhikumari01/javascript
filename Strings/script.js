@@ -12,8 +12,8 @@ const s ='heloo world'
 
 x=s.length;
 //access value by key
-x=s[0];
-x=s.__proto__;
+x=s[0]; 
+x=s.__proto__; 
 
 x= s.toUpperCase();
 x=s.toLowerCase();

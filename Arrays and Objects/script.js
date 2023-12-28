@@ -12,7 +12,7 @@ x= `My fav fruit is ${fruits[0]}`;
 fruits[2]= 'pear';
 
 x = fruits;
-
+ 
 //console.log(x);
 //Arays and methods
 

@@ -13,7 +13,7 @@ let newName= name;
 newName ='Johnathan';
 
 let newPerson = person;
-newPerson.name = 'Bradely';
+newPerson.name = 'Bradely'; 
 
 console.log(name, newName);
 console.log(person,newPerson);

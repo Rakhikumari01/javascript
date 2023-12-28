@@ -33,3 +33,4 @@ function sayHeloo() {
 
 const output = sayHeloo;
 console.log(output, typeof output);
+ 
